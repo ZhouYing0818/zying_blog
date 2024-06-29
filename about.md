@@ -24,4 +24,4 @@ title: About me
  </center>
 
 <hr width="100%" color="#483D8B">
-<iframe src="https://zhouying0818.github.io/zying_blog/personal_doc/Zhou_Ying_CV.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://zhouying0818.github.io/zying_blog/personal_doc/Zhou_Ying_CV.pdf" style="min-height:600px;width:100%;height:100%;"></iframe>
