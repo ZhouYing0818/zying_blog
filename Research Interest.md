@@ -1,3 +1,8 @@
+---
+layout: post
+title: Booklist and interests
+---
+
 # Research Interest
 
 The brain is a remarkably complex organ, necessitating a multidisciplinary approach to unravel its mysteries. Various disorders, such as intellectual developmental disorders, neurodegenerative diseases, and brain cancers, have intricate connections with neuroscience, underscoring the importance of understanding and controlling brain functions. I began my journey of brain exploration by recognizing its complexity and experiencing various methods to study it.
