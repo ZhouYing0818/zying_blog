@@ -1,6 +1,6 @@
 navbar_entries:
   - title: About
-    url: personal_doc/Zhou_Ying_CV
+    url: about
 
   - title: Blog
     url: blog
