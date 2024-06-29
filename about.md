@@ -24,4 +24,4 @@ title: About me
  </center>
 
 <hr width="100%" color="#483D8B">
-[Zhou_Ying_CV.pdf](https://zhouying0818.github.io/zying_blog/personal_doc/Zhou_Ying_CV.pdf)
+![Zhou_Ying_CV.pdf](https://zhouying0818.github.io/zying_blog/personal_doc/Zhou_Ying_CV.pdf)
