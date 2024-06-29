@@ -2,6 +2,9 @@ navbar_entries:
   - title: About
     url: about
 
+  - title: Research Interests
+    url: Research Interest
+
   - title: Blog
     url: blog
     
