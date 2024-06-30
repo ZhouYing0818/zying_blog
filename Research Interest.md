@@ -9,7 +9,7 @@ The brain is a remarkably complex organ, necessitating a multidisciplinary appro
 
 ![](https://cdn.jsdelivr.net/gh/ZhouYing0818/images_storage/research_interests_fig1.svg)
 
-**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations. **A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
+**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations.** A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
 
 ## My research experience
 
@@ -45,4 +45,9 @@ Given that three hypotheses emerge regarding their origin: 1) mature cells adopt
 
 Overall, I am curious in four questions: 1) Can tRG transition into dormant aNSC residing in the SVZ of adult animals? 2) Is there a mechanism linking aNSC to the generation of GSC? 3) Do GBCs also enter a quiescent state similar to aNSC, and if so, what molecules are involved and how might this relate to recurrence? 4) Can the mechanism for reverting active aNSC back to quiescence and inhibit GBM progression?
 
-**Future Goals.** 
+## Future Goals
+
+
+
+## Technical Expertise
+
