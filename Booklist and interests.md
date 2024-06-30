@@ -54,7 +54,7 @@ table td:nth-child(4) {
 |寻羊冒险记|村上春树|Y||
 |人生只有一次，去做自己喜欢的事|摩西奶奶|Y||
 |好的孤独|陈果|Y||
-|自我突围|施一公|||
+|自我突围|施一公|Y||
 |The scientist's guide to writing|Stephen B. Heard|||
 |终极算法|佩德罗 多明戈斯/ 黄芳萍 译|||
 |复杂性思考|Allen B. Downey|||
