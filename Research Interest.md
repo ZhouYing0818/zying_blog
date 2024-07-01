@@ -3,13 +3,11 @@ layout: post
 title: Research interests
 ---
 
-# Research Interest
-
 The brain is a remarkably complex organ, necessitating a multidisciplinary approach to unravel its mysteries. Various disorders, such as intellectual developmental disorders, neurodegenerative diseases, and brain cancers, have intricate connections with neuroscience, underscoring the importance of understanding and controlling brain functions. I began my journey of brain exploration by recognizing its complexity (Figure 2) and experiencing various methods to study it. **My main interest lies in understanding how heterogeneous cell populations are generated from specific neural stem/progenitor cells (Figure 1A-B). I am particularly focused on identifying the mechanisms that cause these cells to commit to incorrect neurogenesis or gliagenesis (Figure 1E), leading to brain cancer (Figure 1B-C, E) or cortical malformations such as pachygyria (Figure 1D-E). Additionally, I aim to explore how we can manipulate these mechanisms to control cell fate determination as a potential new treatment for related diseases.**
 
 ![](https://cdn.jsdelivr.net/gh/ZhouYing0818/images_storage/research_interests_fig1.svg)
 
-**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations. **A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
+**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations.**A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
 
 ## My research experience
 
