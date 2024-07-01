@@ -9,7 +9,7 @@ The brain is a remarkably complex organ, necessitating a multidisciplinary appro
 
 ![](https://cdn.jsdelivr.net/gh/ZhouYing0818/images_storage/research_interests_fig1.svg)
 
-**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations.** A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
+**Figure 1. The relationships of neural stem/progenitor cells, tumors, and cortical malformations. **A. Neurogenesis process. Solid arrows indicate normal development processes; dashed arrows indicate tumorigenesis processes. B. Neural progenitors in adult and fetal stages. C. Glioblastoma shares various pathways with fetal progenitors. D. Potential cell activities forming cortical folding, and the resulting cortical structure malformations when errors occur. E. Balancing stemness maintenance and differentiation through various molecular processes. When the balance favors stemness, the increased proliferation generates numerous progenies, linking both to cortical malformations (specific locations and limited growth ability) and brain tumors (limitless growth ability).
 
 ## My research experience
 
@@ -29,13 +29,13 @@ Additionally, I learned about a spectrum of diseases linked to cortical malforma
 
  **NSC not only exist in the fetal brain.** It's imperative to distinguish between fetal NSCs (fNSCs) and adult NSCs (aNSCs). fNSCs exhibit widespread inside-out multi-layer cellular structures within the fetal brain, whereas aNSCs are primarily located in a dormant state within the subgranular zone (SGZ) and subventricular zone (SVZ) (Figure 1B), becoming activated in response to particular stimuli, such as injury [(Noelia Urbán et al. 2019)](https://doi.org/10.1016/j.neuron.2019.09.026).
 
-**There are potential links between NSCs and GSCs.** During my bioinformatics Master's study, I learned about a group of tumor cells in glioblastoma (GBM) that possess the ability to enter a quiescent state and generate various progenies when activated, known as GBM stem cells (GSC). This inspired me to question the relationship between NSCs and GSCs, as well as their corresponding lineages. Therefore, I designed my thesis project that Systematic comparison of GBM and neurodevelopmental trajectories in my bioinformatics Master. I Integrated and analyzed 5 GBM single-cell/single-nucleus transcriptome datasets, and aligned these datasets with developmental trajectories observed in fetus to systematically compare. The result of tRG showing multiple activation pathways associated with cilia, notably evident in fetal data and broadly activated in GBM (Figure 3), drawn my attention.
+**There are potential links between NSCs and GSCs.** During my bioinformatics Master's study, I learned about a group of tumor cells in glioblastoma (GBM) that possess the ability to enter a quiescent state and generate various progenies when activated, known as GBM stem cells (GSC). This inspired me to question the relationship between NSCs and GSCs, as well as their corresponding lineages. Therefore, I designed my thesis project that Systematic comparison of GBM and neurodevelopmental trajectories in my bioinformatics Master [(Poster)](https://zhouying0818.github.io/zying_blog/personal_doc/Poster_Systematic_comparison_of_IDH-wild_type_GBM_and_neurodevelopmental_trajectories.pdf). I Integrated and analyzed 5 GBM single-cell/single-nucleus transcriptome datasets, and aligned these datasets with developmental trajectories observed in fetus to systematically compare. The result of tRG showing multiple activation pathways associated with cilia, notably evident in fetal data and broadly activated in GBM (Figure 3), drawn my attention.
 
 ![](https://cdn.jsdelivr.net/gh/ZhouYing0818/images_storage/research_interests_figure3.svg)
 
 **Figure 3. Intraciliary transport pathway activation in fetal brain and GBM malignant cells.**
 
-When I searched related papers, I gained experiment-validated points: 1)  GBMs have been observed to invade the ventricular region, cells in the SVZ secreting factors attracting GBM cells (GBC) towards them (Figure 4A, [(Qin et al. 2017)](https://doi.org/10.1016/j.cell.2017.07.016)); 2)a subset of aNSC expressing markers similar to RGC in GBM [(Wang et al. 2020)](https://doi.org/10.1016/j.stemcr.2020.01.007).  aNSC also shares morphological similarities with tRG (only have apical process, Figure 1B); 3) tRGs generate a significant portion of ependymal cells [(Bilgic et al. 2022)](http://dx.doi.org/10.7554/eLife.91406) that sharing an origin with aNSC [(Ortiz-Álvarez et al. 2019)](https://doi.org/10.1016/j.neuron.2019.01.051). 
+When I searched related papers, I gained experiment-validated points: 1)  GBMs have been observed to invade the ventricular region, cells in the SVZ secreting factors attracting GBM cells (GBC) towards them (Figure 4A, [Qin et al. 2017](https://doi.org/10.1016/j.cell.2017.07.016)); 2)a subset of aNSC expressing markers similar to RGC in GBM [(Wang et al. 2020)](https://doi.org/10.1016/j.stemcr.2020.01.007).  aNSC also shares morphological similarities with tRG (only have apical process, Figure 1B); 3) tRGs generate a significant portion of ependymal cells [(Bilgic et al. 2022)](http://dx.doi.org/10.7554/eLife.91406) that sharing an origin with aNSC [(Ortiz-Álvarez et al. 2019)](https://doi.org/10.1016/j.neuron.2019.01.051). 
 
 Given that three hypotheses emerge regarding their origin: 1) mature cells adopting stem-like properties (dashed line in Figure 1A), 2) abnormal differentiation of activated aNSC in response to stimuli resulting tumor cells (Figure 4B), or 3) a combination of the two, wherein the mutations of mature cells trigger an inflammatory response, activating quiescent aNSC, leading to abnormal differentiation into tumor cells (personal hypothesis, Figure 4C).
 
@@ -47,7 +47,46 @@ Overall, I am curious in four questions: 1) Can tRG transition into dormant aNSC
 
 ## Future Goals
 
-
+I am going to focus on stem/progenitor cells, whether from healthy brains or brain tumors, in adults or fetuses, exploring the molecular mechanisms behind neurogenesis or gliagenesis commitment and their corresponding phenotypic relationships, including electrophysiology, morphology, cell cycle, migration, cell connection patterns, and even behavior patterns. While venturing into the mysteries of the brain is incredibly exciting, my ultimate ambition is to control these mechanisms to improve treatments for CNS diseases in the future.
 
 ## Technical Expertise
 
+Neuroscience is a multidisciplinary field that employs various technologies and generates vast amounts of data, which are worth mining. The heterogeneity exhibited by a single subtype of neurons in terms of electrophysiological, morphological, and molecular characteristics alone is significant, let alone the complexity of overall brain functions. This far from captures the complexity of the entire brain, especially the developing brain. Therefore, integrating multi-layered data is crucial for further understanding this intricate field. With the rapid accumulation of biological data, I believe our research can be divided into two parts: data collection and data mining.
+
+### Data Collection
+
+**Data can collect by wet experiments:**
+
+- **Functional/phenotypic level:**
+  - Behavior: testing using various paradigms, such as forced swimming.
+  - Electrophysiology in cohort cells: recording via electrode array implantation.
+  - Brain macro-structure: observing structures like the gyrus through measurements or 3D modeling.
+  - Transgenic animal models.
+- **Tissue/cells level:**
+  - Tissue section and staining: including chemical, antibody (IHC), and RNA/DNA probe staining (FISH).
+  - Imaging: static (2D/3D) and dynamic (time-lapse).
+  - Cell/tissue culture.
+  - Virus tracing: considerations include how to inject (e.g., stereotactic injection), where to inject (e.g., subventricular zone or hippocampus), what kind of virus, and the observation timeline.
+- **Molecular level:**
+  - Genome: WES/WGS, 3D genome (HiC), accessibility (ATAC-seq), methylation (WGBS), TF/histone regulation (CUT&TAG/CUT&RUN/ChIP-seq).
+  - Transcriptome: bulk/single cell/nucleus RNA-seq, non-coding RNA (microRNA, lncRNA, circRNA, etc.), alternative splicing (AS), alternative polyadenylation (APA).
+  - Translation: Ribo-seq.
+- Bioengineering interference. CRISPR knockouts, RNAi knockdowns and rescuing by artificial adding
+
+**Data also can collect from public datasets.**
+
+### Data mining
+
+* Data clean and feature extraction
+
+  - **Electrophysiology or other time sequence data:** Extract features such as spike counts, spike shape descriptions, etc. (Figure 2A).
+  - **Morphology or other image data:** Preprocess data through denoising, segmentation, reconstruction, and feature extraction (Figure 2B).
+  - **Molecular data:** Different pipelines for preprocessing and feature extraction. For example, RNA-seq outputs a differentiated gene list, while ChIP-seq outputs a peak list.
+  - **General approach:** Consider the data type and purpose, extract meaningful features, and construct a matrix where rows represent samples and columns represent features.
+
+- Classification and clustering for pattern recognition
+
+- Discovering correlations across different data layers
+  - Identify molecular regulation correlations with phenotypes.
+
+- Simulation or modeling for inference or interpretation
